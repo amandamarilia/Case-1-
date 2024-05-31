@@ -3,7 +3,7 @@
 #Aplique os conhecimentos de limpeza e organização de dados(data cleaning & data wrangling) para estruturar uma base de dados para modelagem.
 #levantamento dos indicadores de recência, frequência e ticket médio (RFM) dos seus clientes
 #R (Recency > F (Frequency) > M (Monetary). 
-# Utilização do describe para verificar a distribuição dos dados; 
+#Utilização do describe para verificar a distribuição dos dados; 
 #Verficação dos dados nulos e utilização do dropna para remoção;
 #Verificação dos Preços unitários e quantidade de produtos iguais ou inferior a 0, assim removendo-os;
 #Verificação de linhas duplicadas e utilização do Drope para remoção;
